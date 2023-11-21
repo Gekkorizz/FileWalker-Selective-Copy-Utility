@@ -6,6 +6,12 @@
 
 The Selective Copy Tool is a versatile and efficient solution for selectively copying files from a source directory to a target directory based on specified file extensions. This tool simplifies the organization of files within complex directory structures.
 
+## Screenshots
+![Screenshot 2023-11-21 090745](https://github.com/Gekkorizz/FileWalker-Selective-Copy-Utility/assets/124438560/dfdea6c3-ab11-4ee9-845c-f7f293750ca1)
+
+
+
+
 ## Key Features
 
 - **Selective Copying:** Choose specific file extensions to copy, allowing for targeted file management.
